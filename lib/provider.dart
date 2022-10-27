@@ -43,21 +43,29 @@ class AnimeProvider with ChangeNotifier {
 }
 
 class Profile with ChangeNotifier {
-  Profile({required this.nama, required this.funFact});
+  Profile({required this.nama, required this.nim, required this.funFact});
 
   String nama;
   String funFact;
+  String nim;
 }
 
 class ProfileProvider with ChangeNotifier {
   final List<Profile> _items = [
     Profile(
         nama: 'Ahmad Asroruddin',
+        nim: '21120120140132',
         funFact: "Hari-hari dihabiskan hanya di dalam kamar"),
-    Profile(nama: 'Faqih Al Mubarrok', funFact: "Programmer Game"),
-    Profile(nama: 'Khasandra Nur ', funFact: "Tidak tahu"),
     Profile(
-        nama: 'Refanda Putra', funFact: "Kalo di kelas duduk di depan terus")
+        nama: 'Faqih Al Mubarrok',
+        nim: '21120120130042',
+        funFact: "Programmer Game"),
+    Profile(
+        nama: 'Khasandra Nur ', nim: '21120120140089', funFact: "Tidak tahu"),
+    Profile(
+        nama: 'Refanda Putra',
+        nim: '21120120120022',
+        funFact: "Kalo di kelas duduk di depan terus")
   ];
 
   List<Profile> getProfile() {
