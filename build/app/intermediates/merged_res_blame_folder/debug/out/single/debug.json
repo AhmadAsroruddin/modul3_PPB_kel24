@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_background.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable-v21\\background.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable_background.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable_launch_background.xml.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_splash.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable_konv.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable\\konv.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "E:\\Kuliah\\semester 5\\prak pbb\\modul 3\\percobaan\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    }
+]
